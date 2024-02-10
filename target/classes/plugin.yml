@@ -1,0 +1,11 @@
+name: NeyKickAnim
+version: '1.0.0'
+author: Ney
+main: org.ney.neykickanim.NeyKickAnim
+api-version: 1.16
+permissions:
+  neykick.use:
+    default: op
+commands:
+  neykick:
+    permission: neykick.use

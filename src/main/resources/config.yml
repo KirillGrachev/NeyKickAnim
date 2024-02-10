@@ -1,0 +1,4 @@
+#NeyKickAnim (/neykick <player>, neykick.use)
+
+kick-text: "&cВы читер!" #сообщение при кике
+player: "&cИгрок не найден!"
